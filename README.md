@@ -89,15 +89,6 @@ This project was developed in **Python** and organized for use in **Jupyter Note
 - Git for version control
 - GitHub for repository hosting and sharing
 
-## How to Run
-
-### Step 1: Clone the repository
-Clone this repository to your local machine.
-
-```bash
-git clone https://github.com/nimalsha1996/nsclc-uca1-transcriptomics.git
-cd nsclc-uca1-transcriptomics
-
 ## Expected Outputs
 
 This project is designed to generate interpretation-oriented outputs that may include:
