@@ -40,17 +40,6 @@ To run this project locally:
 2. place the file `tcga_luad_count.csv` inside that folder
 3. ensure the notebook paths match your local folder structure
 
-# Repository Structure
-
-
-nsclc-uca1-transcriptomics/
-├── figures/       # Saved plots and visual outputs
-├── notebooks/     # Jupyter notebooks containing the analysis workflow
-├── results/       # Processed results, summary tables, and derived outputs
-├── .gitignore     # Git ignore rules to exclude large or unnecessary files
-├── LICENSE        # Project license
-└── README.md      # Project documentation
-
 ## Analytical Workflow
 
 The workflow implemented in this repository follows a standard transcriptomic analysis logic adapted for an exploratory expression study.
