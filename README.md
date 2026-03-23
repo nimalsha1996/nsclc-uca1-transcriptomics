@@ -1,4 +1,4 @@
-Can you combine all the code together. # Transcriptomic Analysis of lncRNA UCA1 in Non-Small Cell Lung Cancer Using Public RNA-seq Data
+# Transcriptomic Analysis of lncRNA UCA1 in Non-Small Cell Lung Cancer Using Public RNA-seq Data
 
 ## Overview
 This repository presents a transcriptomic workflow for investigating the expression profile of the long non-coding RNA **UCA1 (Urothelial Cancer Associated 1)** in **non-small cell lung cancer (NSCLC)** using publicly available **RNA-seq** data derived from **The Cancer Genome Atlas (TCGA)**. The project was developed to explore UCA1-associated expression patterns in lung adenocarcinoma-oriented transcriptomic datasets and to demonstrate a reproducible computational framework for preprocessing, exploratory analysis, statistical interrogation, and visualization of cancer transcriptome data.
